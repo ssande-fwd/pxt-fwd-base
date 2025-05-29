@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "fwd-core": "github:ssande-fwd/pxt-fwd-modules",
-        "jacdac-servo": "github:microsoft/pxt-jacdac/servo"
+        "jacdac-servo": "github:jacdac/pxt-jacdac/servo"
     },
     "files": [
         "client.ts"
